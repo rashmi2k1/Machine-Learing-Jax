@@ -1,8 +1,10 @@
 # Machine-Learing-Jax
 
 
-**Ques.) Implement two hidden layers neural network classifier from scratch in JAX**
+**Ques.) **
+Implement two hidden layers neural network classifier from scratch in JAX
 
+**Restraints**
 Two hidden layers here means (input - hidden1 - hidden2 - output).
 
 You must not use flax, optax, or any other library for this task.
