@@ -1,7 +1,7 @@
 # Machine-Learing-Jax
 
 
-**Implement two hidden layers neural network classifier from scratch in JAX**
+**Ques.) Implement two hidden layers neural network classifier from scratch in JAX**
 
 Two hidden layers here means (input - hidden1 - hidden2 - output).
 
