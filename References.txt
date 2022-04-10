@@ -1,0 +1,15 @@
+Citation:
+
+https://jax.readthedocs.io/en/latest/notebooks/quickstart.html
+
+https://jax.readthedocs.io/en/latest/jax.numpy.html
+
+https://github.com/google/jax
+
+https://roberttlange.github.io/posts/2020/03/blog-post-10/
+
+https://www.youtube.com/watch?v=0mVmRHMaOJ4
+
+https://www.youtube.com/watch?v=5eUSmJvK8WA
+
+https://www.youtube.com/watch?v=6_PqUPxRmjY
