@@ -1,6 +1,8 @@
-Citation:
+#Citation:
 
 https://jax.readthedocs.io/en/latest/notebooks/quickstart.html
+
+https://project-awesome.org/n2cholas/awesome-jax
 
 https://jax.readthedocs.io/en/latest/jax.numpy.html
 
